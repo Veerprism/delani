@@ -1,0 +1,53 @@
+
+#head{
+  height: 550px;
+  background-image: url("../Assets/Backgrounds/himage.jpg");
+  background-size: 100% 100%;
+  text-align: center;
+  margin-top: 0px;
+}
+#overal{
+  margin: 0px;
+}
+#head h1{
+  font-size: 350%;
+  font-weight: bold;
+}
+#head1{
+
+  height: 50%;
+  margin-top: 140px;
+  margin-bottom:70px;
+  color: white;
+  font-size: 65%;
+}
+#head2{
+  height: 10%;
+  margin-bottom: 15px;
+}
+#aboutus{
+  text-align: center;
+  font-family: 'Rubik', sans-serif;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+#aboutus h3{
+  font-weight: bold;
+}
+
+#services{
+  text-align: center;
+  color: white;
+  background-image:url("../Assets/Backgrounds/simage.jpg");
+  background-size: 100% 100%;
+  height: 250px;
+}
+#services h3{
+  font-weight: bold;
+  font-family: 'Rubik', sans-serif;
+}
+#services1{
+  margin-top:40px;
+  font-family: 'Rubik', sans-serif;
+
+}
