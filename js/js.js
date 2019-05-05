@@ -15,7 +15,7 @@ $(document).ready(function() {
 
   $("#do1").click(function() {
     $(".designimage").toggle();
-    //hides image
+    
     $(".designdesc").show();
     //this shows description. Happens the same way to the below funtions
   });
