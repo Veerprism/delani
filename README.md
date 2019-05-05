@@ -11,6 +11,7 @@ The website is about Delani Studio,a corporation which works hand in hand with c
 No bugs so far. Working clean.
 ## Technologies Used
 HTML5,CSS and Javascript
+Works well on older browsers. No quirks so far especially on IE.
 ## Support and contact details
 You can contact me via:
 Email:jkmigiro@gmail.com
