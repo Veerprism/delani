@@ -12,9 +12,9 @@
     height: 100%;
     margin: 0px;
     padding: 0px;
-    overflow-x: hidden;
-    overflow-y:hidden;
     overflow: hidden;
+
+
 }
 
 #head h1 {
